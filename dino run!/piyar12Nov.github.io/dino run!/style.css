@@ -12,7 +12,8 @@ h3{
     height: 200px;
     background-image: url(Desert.gif);
     background-size: 280px 280px;
-    margin: 150px auto;
+    margin-top: 150px;
+    margin-left: 300px;
 }
 #dino{
     width: 50px;
